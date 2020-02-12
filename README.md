@@ -1,6 +1,6 @@
 # README
 
-This application is a microblog and is being developed by Oleksandr Lysenko a listener of Ruby Crash Course 2020 [Soft Serve].
+This application is a microblog and is being developed by [Oleksandr Lysenko](https://www.linkedin.com/in/oleksandr-lysenko/) a listener of *Ruby Crash Course 2020 [Soft Serve]*.
 
 * Ruby version ~> 2.5.6
 
