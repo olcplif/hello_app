@@ -9,3 +9,11 @@ This application is a microblog and is being developed by Oleksandr Lysenko a li
 * Database creation ~> sqlite3
 
 ...
+
+# Ruby on Rails Tutorial
+
+## "hello, world!"
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](https://www.railstutorial.org/)
+by [Michael Hartl](https://www.michaelhartl.com/). Hello, world!
